@@ -1,0 +1,7 @@
+This software features 3 common arcade/casino games (Guess-The-Card, BlackJack, Hangman).
+It is wrapped in a clean, interactive, detailed GUI to make it easy to use.
+
+I experimented with the probabilistic factors behind running a profitable game at a casino.
+I manipulated the random variable values and probabilities to see the resulting E(X) and Var(X) for casino and player winnings.
+
+Currently for simplicity, the BlackJack and Guess-The-Card outcome probablities are left as a default Java uniformly distributed RV
