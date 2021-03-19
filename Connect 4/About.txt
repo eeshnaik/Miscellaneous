@@ -1,0 +1,3 @@
+This project features a Connect 4 game that is playable in the console.
+
+It follows all the conventional rules of Connect 4 and uses a 2D array as the data structure
