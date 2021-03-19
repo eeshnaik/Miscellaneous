@@ -1,0 +1,4 @@
+This project features a Java Swing GUI that executes a runtime process to ping different networks around the world.
+It runs a CMD command that pings the address and displays it cleanly in a jTextArea.
+
+It also allows the user to clear the produced results in the text area.
